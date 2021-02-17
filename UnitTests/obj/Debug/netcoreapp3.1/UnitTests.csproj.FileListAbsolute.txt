@@ -1,0 +1,6 @@
+C:\code\interview\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.exe
+C:\code\interview\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+C:\code\interview\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+C:\code\interview\UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\code\interview\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+C:\code\interview\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete

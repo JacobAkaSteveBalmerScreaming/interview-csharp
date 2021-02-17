@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTza7imIEu/JU0yXAuHj4OP6xzc4hkfNtjOXFi3bFLewhz0AFFXhXg6jZb2g6kyY4hUfoI8ZsCG92AC/gNJ6RA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\interview\\ApiCommunication\\ApiCommunication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.1\\microsoft.aspnetcore.http.features.5.0.1.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

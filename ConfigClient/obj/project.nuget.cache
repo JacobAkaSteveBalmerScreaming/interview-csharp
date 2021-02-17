@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTvOdilH/Lf37rmYQLEEAwWsmqc8Eq5hj8qlQD0hwbng964gYWNBvdkpqpuZt/ZEnl7k2GIzuCs4BDAR2iReYQ==",
+  "success": true,
+  "projectFilePath": "C:\\code\\interview\\ConfigClient\\ConfigClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
